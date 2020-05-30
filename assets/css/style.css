@@ -108,6 +108,15 @@ h6 {
 .nav-menu {
   width: 100%;
 }
+.career{
+  background-color:#f8f9fa;
+  width: 100%;
+  padding: 1.5em;
+}
+.butto{
+  text-align: center;
+  align-content: center;
+}
 
 .nav-menu,
 .nav-menu * {
